@@ -4,7 +4,7 @@ Application for searching location and set direction from user to last coordinat
 About [FloatingPanel](https://github.com/scenee/FloatingPanel). This kit give developer posibilities to use panel like in Apple Map application for some custom stuff. I recommend everyone who making app with a lot elements.
 
 ## CocoaPods
-Floating Panel is awailable through [CocoaPods](https://cocoapods.org). For those who want to install just paste the code below;
+Floating Panel is awailable through [CocoaPods](https://cocoapods.org). For those who want to install just pass through the link.
 
 ## **Main Objectives:**
 1. Showing users location on map, central adress there the pin is and search bar in panel:
